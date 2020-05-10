@@ -1,0 +1,36 @@
+{
+  "name": "portfolio-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://dbarochiya.github.io/me",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bulma": "^0.8.2",
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.14.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "css-build": "node-sass --omit-source-map-url public/sass/ss.scss public/css/ss.css",
+    "css-watch": "npm run css-build -- --watch"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
