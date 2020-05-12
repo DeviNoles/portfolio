@@ -68,7 +68,7 @@ export default class Projects extends Component {
           </div>
           </a>
         </div>
-      
+
 
         <div className="column is-one-third" data-aos="zoom-in-up">
         <a href="https://ldjam.com/events/ludum-dare/46/henry">
@@ -136,7 +136,7 @@ export default class Projects extends Component {
             </div>
             <div className="project-details">
               <h3>Assembler</h3>
-              <p>Parse a subset of Python syntax and turn it into an x86-64 assembly program.</p>
+              <p>Parse a given Arm code file and turn it into machine code.</p>
             </div>
           </div>
         </div>
