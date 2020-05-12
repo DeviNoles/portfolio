@@ -54,35 +54,21 @@ export default class Projects extends Component {
           </a>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
-        <a href="https://github.com/DeviNoles/swappa">
+        <a href="https://github.com/DeviNoles/portfolio">
           <div className="project modal-button" >
             <div className="project-preview">
               <figure className="image is-4by3">
-                <img src="images/swappapy.png" />
+                <img src="images/porty.png" />
               </figure>
             </div>
             <div className="project-details">
               <h3>Portfolio Website</h3>
-              <p>A Python wrapper that returns data from Swappa.com</p>
+              <p>A website to show off my projects made with modular React components.</p>
             </div>
           </div>
           </a>
         </div>
-        <div className="column is-one-third" data-aos="zoom-in-up">
-        <a href="https://github.com/DeviNoles/AlgorithmVisualization">
-          <div className="project modal-button">
-            <div className="project-preview">
-              <figure className="image is-4by3">
-                  <img src="images/sorts.png" />
-              </figure>
-            </div>
-            <div className="project-details">
-              <h3>What The Sketch</h3>
-              <p>Watch how different sorting algorithms compare.</p>
-            </div>
-          </div>
-          </a>
-        </div>
+      
 
         <div className="column is-one-third" data-aos="zoom-in-up">
         <a href="https://ldjam.com/events/ludum-dare/46/henry">

@@ -38,7 +38,8 @@ export default class About extends Component {
             <span class="tag db-tag is-medium">Unix</span>
             <span class="tag db-tag is-medium">Cloud Services</span>
             <span class="tag db-tag is-medium">Databases & Storage</span>
-
+            <span class="tag db-tag is-medium">REST API</span>
+            
             <span class="tag misc-tag is-medium">Learning</span>
             <span class="tag misc-tag is-medium">Project Architecture</span>
             <span class="tag misc-tag is-medium">Agile Methodologies</span>

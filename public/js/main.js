@@ -310,7 +310,7 @@
 		navigationSection();
 		// windowScroll();
 
-
+		AOS.init();
 		mobileMenuOutsideClick();
 		sliderMain();
 		stickyFunction();
