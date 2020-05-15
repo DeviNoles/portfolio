@@ -149,6 +149,7 @@ export default class Projects extends Component {
         <div className="column is-one-third" data-aos="zoom-in-up">
 
           <div className="project modal-button">
+          <a href="https://github.com/DeviNoles/homelab">
             <div className="project-preview">
               <figure className="image is-4by3">
                 <img src="images/lab.png" />
@@ -158,6 +159,7 @@ export default class Projects extends Component {
               <h3>Homelab</h3>
               <p>Repository with information and files about my homelab & networking. </p>
             </div>
+            </a>
           </div>
 
 
