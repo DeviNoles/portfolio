@@ -129,6 +129,7 @@ export default class Projects extends Component {
               <p>Transfer Files within a network using sockets in Python</p>
             </div>
           </div>
+          </a>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
         <a href="https://github.com/DeviNoles/arm-assembler">
@@ -143,6 +144,7 @@ export default class Projects extends Component {
               <p>Parse an Arm code file and turn it into machine code.</p>
             </div>
           </div>
+          </a>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
 
