@@ -87,6 +87,7 @@ export default class Projects extends Component {
         </div>
 
         <div className="column is-one-third" data-aos="zoom-in-up">
+        <a href="https://ldjam.com/events/ludum-dare/46/henry">
           <div className="project modal-button">
             <div className="project-preview">
               <figure className="image is-4by3">
@@ -98,6 +99,7 @@ export default class Projects extends Component {
               <p>SQF scripts + other Arma 3 assets I've made, mostly for Arma 3 Reality Life.</p>
             </div>
           </div>
+          </a>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
           <a href="https://github.com/DeviNoles/Puzzalarm">
@@ -115,6 +117,7 @@ export default class Projects extends Component {
           </a>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
+        <a href="https://github.com/DeviNoles/python-network-socket">
           <div className="project modal-button">
             <div className="project-preview">
               <figure className="image is-4by3">
@@ -128,6 +131,7 @@ export default class Projects extends Component {
           </div>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
+        <a href="https://github.com/DeviNoles/arm-assembler">
           <div className="project modal-button">
             <div className="project-preview">
               <figure className="image is-4by3">
@@ -135,12 +139,13 @@ export default class Projects extends Component {
               </figure>
             </div>
             <div className="project-details">
-              <h3>Assembler</h3>
-              <p>Parse a given Arm code file and turn it into machine code.</p>
+              <h3>Arm Assembler</h3>
+              <p>Parse an Arm code file and turn it into machine code.</p>
             </div>
           </div>
         </div>
         <div className="column is-one-third" data-aos="zoom-in-up">
+
           <div className="project modal-button">
             <div className="project-preview">
               <figure className="image is-4by3">
